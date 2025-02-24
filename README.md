@@ -5,9 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlejoNM2402&theme=darkhub" alt="Trophies" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+
 - 📫 How to reach me **alejonaranjom4@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/alejo_naranjo2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alejo_naranjo2" height="30" width="40" /></a>
 </p>
