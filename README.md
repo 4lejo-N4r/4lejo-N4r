@@ -49,8 +49,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlejoNM2402&show_icons=true&locale=en" alt="Stats" />
 </p>
 
-<p>
+<p align="center">
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlejoNM2402&theme=highcontrast&hide_border=true&border_radius=4.7&card_width=700&card_height=350&background=70%2C10EB7C%2C1545EB" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlejoNM2402&theme=highcontrast&hide_border=true&border_radius=4.7&card_width=900&card_height=200&background=70%2C10EB7C%2C1545EB" alt="GitHub Streak" />
 </a>
 </p>
